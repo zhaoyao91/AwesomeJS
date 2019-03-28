@@ -1,7 +1,5 @@
 # AwesomeJS
 
-Save the awesome things in js world
-
 ## Common
 
 - lodash
