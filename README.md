@@ -6,6 +6,7 @@
 - flow
 - prettier + pretty-quick + husky
 - now
+- rxjs
 
 ## Client
 
