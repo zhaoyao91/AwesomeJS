@@ -7,6 +7,7 @@
 - prettier + pretty-quick + husky
 - now
 - rxjs
+- apollographql
 
 ## Client
 
